@@ -1,0 +1,8 @@
+version: "3.3"
+services:
+  ubuntu:
+    container_name: ubuntu
+    image: ubuntu:latest
+  centos7:
+    container_name: centos7
+    image: centos:centos7
